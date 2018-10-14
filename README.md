@@ -1,2 +1,3 @@
 # My-Kaggle-Competitions
-Repo containing codes to my competitions
+Repo containing codes for both Kernels and Competitions
+Kaggle Profile: https://www.kaggle.com/ryukojin
