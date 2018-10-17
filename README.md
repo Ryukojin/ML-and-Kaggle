@@ -9,6 +9,7 @@ Kaggle Profile: https://www.kaggle.com/ryukojin
 
 	- __R__
 		- [Titanic: Machine Learning from Disaster](https://github.com/Ryukojin/ML-and-Kaggle/blob/master/Titanic%20Competition/submission.R): This is the code for my submission to Kaggle's most popular beginner competition - Titanic: Machine Learning from Disaster.
+		- [Kickstarter InClass competition](https://github.com/Ryukojin/ML-and-Kaggle/blob/master/Kickstarter%20Campaign%20-%20Inclass%20competition/Rforest.R): This is the code for my submission to the inclass competition that took place as part of my university subject ANALYTICS IN PRACTICE.
 
 - ### Machine Learning Models
 	
