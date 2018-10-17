@@ -8,7 +8,7 @@ Kaggle Profile: https://www.kaggle.com/ryukojin
 - ### Kaggle Competitions
 
 	- __R__
-		- [ISLR College Data](http://rpubs.com/FahimAJ/430084): In this micro project, we’ll use Decision Trees, and as well as Random Forests to classify schools as Private or Public based off their features. We’ll be using the College dataframe from the ISLR library.
+		- [Titanic Survivor](https://github.com/Ryukojin/ML-and-Kaggle/blob/master/Titanic%20Competition/submission.R): This is the code for my submission to Kaggle's most popular beginner competition - Titanic: Machine Learning from Disaster.
 
 - ### Machine Learning Models
 	
