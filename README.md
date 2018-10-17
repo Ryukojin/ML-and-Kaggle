@@ -2,9 +2,6 @@
 Repo containing codes for Kaggle Competitions and private Machine Learning models
 
 Kaggle Profile: https://www.kaggle.com/ryukojin
-
-# EDA and Visualisation
-This repo consists of the Exploratory data analysis and visualisations I have done using both R & Python.
 	
 ## Contents
 
