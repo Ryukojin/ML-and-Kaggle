@@ -1,5 +1,5 @@
 # Kaggle competitions and Machine learning practice 
-Repo containing codes for Kaggle Competitions and private Machine Learning models
+Repo for my private Machine Learning models using Kaggle datasets. 
 
 Kaggle Profile: https://www.kaggle.com/ryukojin
 	
